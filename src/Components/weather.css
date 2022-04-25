@@ -1,0 +1,30 @@
+.weather {
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    padding: 0px 20px 20px 20px;
+  }
+  .weather .title {
+    margin-top: 60px;
+    font-size: 30px;
+  }
+  .weather form {
+    margin-top: 30px;
+  }
+  .weather form input {
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-right: 10px;
+  }
+  .weatherbutton{
+    margin-left: 10px;
+  padding: 8px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  border: 2px solid black;
+  cursor: pointer;
+  }
+  
